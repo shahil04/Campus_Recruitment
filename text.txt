@@ -1,0 +1,6 @@
+echo "# Campus_Recruitment" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:shahil04/Campus_Recruitment.git
+git push -u origin master
